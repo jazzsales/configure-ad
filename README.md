@@ -28,7 +28,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-![image](https://github.com/jazzsales/configure-ad/assets/147656623/8eb039e9-823a-4e7e-8cd5-f575a75913f2)
+<![image](https://github.com/jazzsales/configure-ad/assets/147656623/8eb039e9-823a-4e7e-8cd5-f575a75913f2)>
 
 </p>
 <p>
