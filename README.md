@@ -32,22 +32,41 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click "Virtual machines"</p>
+
+![image](https://github.com/jazzsales/configure-ad/assets/147656623/52ea6932-d4ba-4ee6-aae1-5e6c99d11d7d)
+
+<br />
+  Click here
+
+<p>
+
+![image](https://github.com/jazzsales/configure-ad/assets/147656623/2de5c6a6-c2a1-441a-a126-a222dd16ad38)
+</p>
+<p>
+Select Azure Virtual Machine
+  
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/jazzsales/configure-ad/assets/147656623/68fb5c6a-f2c7-483b-ac59-aa0fbdb0aa32)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  Click "(New) Resource group"
+
+![image](https://github.com/jazzsales/configure-ad/assets/147656623/b12c58dc-ca62-4f8b-8bc1-446d8f78658d)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+Click the "Virtual machine name" field.
+
+![image](https://github.com/jazzsales/configure-ad/assets/147656623/8431f080-0b66-49c7-8b77-1d91379f7f15)
+
+  </p>
 <br />
+
+Click the "Virtual machine name" field.
+
+![image](https://github.com/jazzsales/configure-ad/assets/147656623/4810f511-5ac0-406d-89e2-12336080a1a2)
