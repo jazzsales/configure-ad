@@ -1,17 +1,18 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+</![image](https://github.com/jazzsales/configure-ad/assets/147656623/d4178360-3fa1-455b-986c-aa748623b8f3)>
+
+
+<h1>How to create a virtual machine (Azure)</h1>
+In this tutorial, you'll learn step-by-step instructions on creating a virtual machine using Microsoft Azure. Follow along to leverage the power of cloud computing for your IT projects.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+
 
 <h2>Operating Systems Used </h2>
 
